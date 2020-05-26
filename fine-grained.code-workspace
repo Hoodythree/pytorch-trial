@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Miniconda3\\envs\\pytorch_gpu\\python.exe"
+	}
+}
