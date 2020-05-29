@@ -6,6 +6,8 @@ This repo is the complete pipeline of PyTorch deep learning.
 
 #### 3. Logging
 
+- wandb
+
 #### 4. Visualization
 
 #### 5. 训练
